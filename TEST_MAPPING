@@ -1,36 +1,3 @@
-{
-    "presubmit": [
-        {
-            "name": "CtsMockingTestCases",
-            "options": [
-                {
-                    "exclude-annotation": "androidx.test.filters.LargeTest"
-                }
-            ]
-        },
-        {
-            "name": "CtsInlineMockingTestCases",
-            "options": [
-                {
-                    "exclude-annotation": "androidx.test.filters.LargeTest"
-                }
-            ]
-        },
-        {
-            "name": "CtsMockingDebuggableTestCases",
-            "options": [
-                {
-                    "exclude-annotation": "androidx.test.filters.LargeTest"
-                }
-            ]
-        },
-        {
-            "name": "CtsExtendedMockingTestCases",
-            "options": [
-                {
-                    "exclude-annotation": "androidx.test.filters.LargeTest"
-                }
-            ]
-        }
-    ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:4108e8e2c806ca08cfe67ff5f54a31a4cd16546cf73c4d70d64aad4338f96cb8
+size 912
